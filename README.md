@@ -17,6 +17,13 @@ __Competências e conhecimentos técnicos:__
 
 #
 
+
+__Modelagem do banco de dados:__
+
+<img src="./diagrama.jpg">
+
+#
+
 __Tecnologias utilizadas:__
 
 <div>
@@ -26,3 +33,5 @@ __Tecnologias utilizadas:__
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" style="border-radius:4px"/>
 
 #
+
+<h4 align=center> Desenvolvido por Nayla Hilana </h4>
